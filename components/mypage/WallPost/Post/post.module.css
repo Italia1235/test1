@@ -1,0 +1,31 @@
+.post{
+  
+
+
+    padding: 3px;
+    display:flex;
+}
+
+
+.avatar img{
+    
+    width: 80px;
+    height: 100px;
+    border-radius: 10%;
+    padding-left: 2px;
+flex:1;
+}
+
+
+.postBody{
+height: 60px ;
+
+    font-size: large;
+  border: 1.5px solid black;
+width: 500px;
+text-align: center;
+
+margin-left:12px;
+margin-top:40px;
+border-radius: 10px;
+}

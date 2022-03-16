@@ -1,0 +1,22 @@
+.header{
+    grid-area: h;
+    background-color: #292929;
+    color:whitesmoke;
+    font-size: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  text-align:center;
+  
+ 
+  }
+  .header img{width: 60px; border-radius: 80%; float:right}
+
+  
+.loginBlock{
+  float:right
+}
+  
+.loginBlock a{
+ color:whitesmoke;
+ text-decoration: none;
+}
+  
